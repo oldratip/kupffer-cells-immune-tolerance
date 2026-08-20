@@ -1,0 +1,1 @@
+Download here the processed data (Seurat objects) from [Zenodo](https://zenodo.org/records/22029892) and run the `generate_figures_all_cells.R` and `generate_figures_myeloid.R` to recreate the paper figures.
