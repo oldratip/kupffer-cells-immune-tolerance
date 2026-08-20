@@ -1,0 +1,1 @@
+If you wish to re-generate the processed files (Seurat objects - see README), download the Cellbender count matrices from [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE342151) here. Otherwise, the already preprocessed data is available on [Zenodo](https://doi.org/10.5281/zenodo.22029892).
