@@ -6,3 +6,5 @@ To generate the paper figures:
 * Run the `generate_figures_all_cells.R` and `generate_figures_myeloid.R` scripts.
 
 If you wish to do so, the code in `data_preprocessing.R` re-generates the pre-processed data and expects the Cellbender output matrices to be downloaded in the `raw_data` folder. These can be found on GEO (accession number [GSE342151](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE342151)).
+
+[![DOI](https://zenodo.org/badge/1339326849.svg)](https://doi.org/10.5281/zenodo.23010063)
